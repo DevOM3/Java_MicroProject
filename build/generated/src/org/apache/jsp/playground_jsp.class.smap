@@ -1,0 +1,16 @@
+SMAP
+playground_jsp.java
+JSP
+*S JSP
+*F
++ 0 playground.jsp
+playground.jsp
++ 1 playground.css
+css/playground.css
+*L
+1,8:50
+1#1,88:58
+8#0,3:145
+11:148,2
+12,72:150
+*E
