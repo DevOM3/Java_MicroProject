@@ -9,6 +9,7 @@
         </style>
     </head>
     <body>
+        <%@include file="navbar.jsp" %>
         <section class="playground-section">
             <div class="top"/>
             <img id="ai-response" src="https://firebasestorage.googleapis.com/v0/b/chatsharp-dbfc9.appspot.com/o/icon.png?alt=media&token=2ee66a1c-336b-46da-a561-58682c48b8fb" alt="" />

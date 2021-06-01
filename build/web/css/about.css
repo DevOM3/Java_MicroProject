@@ -1,15 +1,17 @@
 html, body {
     margin: 0;
     padding: 0;
+    background: white;
+    position: relative;
 }
 
 .aboutText {
     padding-top: 21px;
     font-size: 16px;
-    font-family: 'Roboto';
+    font-family: Helvetica, sans-serif;
     width: 95%;
     max-width: 800px;
     margin-left: auto;
     margin-right: auto;
-    letter-spacing: 1.11px
+    letter-spacing: 1.11px;
 }
