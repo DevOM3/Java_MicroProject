@@ -11,6 +11,6 @@
         <li><a class="link" href="/SPS.live/">Home</a></li>
         <li><a class="link" href="/SPS.live/playground">Playground</a></li>
         <li><a class="link" href="/SPS.live/about">About</a></li>
-        <li><a class="link" href="/SPS.live/">Download</a></li>
+        <li><a class="link" href="/SPS.live/SPS_Live.jar" download>Download</a></li>
     </ul>
 </nav>

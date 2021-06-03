@@ -3,7 +3,7 @@
 <html>
     <head>
         <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-        <title>JSP Page</title>
+        <title>SPS | Home</title>
         <style type="text/css">
             <%@include file="css/home.css" %>
         </style>
@@ -20,7 +20,7 @@
                 <div class="content">
                     <h1><div class="start-div">SPS<div class="end">.live</div></div></h1>
                     <p>
-                      Play Stone Paper Sissor on the go.
+                      Play Stone Paper Scissor on the go.
                     </p>
                 </div>
             </div>

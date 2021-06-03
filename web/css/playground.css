@@ -10,7 +10,8 @@ body {
 
 .top {
     height: 40vh;
-    /*background: whitesmoke;*/
+    background: black;
+    border-top: 1px solid white;
 }
 .top img {
     height: 100%;
@@ -22,6 +23,7 @@ body {
     height: 20vh;
     display: grid;
     place-items: center;
+    background: black;
 }
 
 table {
@@ -30,19 +32,16 @@ table {
     border-collapse: collapse;
     width: 98%;
     max-width: 800px;
+    background: black;
 }
 
 td, th {
-    border: 1px solid grey;
     text-align: center;
     padding: 8px;
+    color: white;
 }
 td:nth-child(2), th:nth-child(2) {
     width: 70%;
-}
-
-tr:nth-child(even) {
-    background-color: #eeeeee;
 }
 
 .bottom {
@@ -51,7 +50,7 @@ tr:nth-child(even) {
     display: flex;
     align-items: center;
     justify-content: space-around;
-    /*background: whitesmoke;*/
+    background: black;
 }
 
 .button {
